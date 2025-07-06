@@ -1,6 +1,6 @@
 # =============================================
 # Terraform Complete Infra on Azure (Compute + Network + App Deployment)
-# By: Vivek (with ChatGPT)
+# By: Vivek 
 # =============================================
 
 provider "azurerm" {
